@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(246, 244, 242);
+    margin: 0;
+}
+.photo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0;
+}
+.content{
+    width: 25%;
+    margin: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 0;
+    background-color: white;
+    border: 1px solid rgb(255, 87, 87);
+}
+img{
+    width: 100%;
+    height: 200px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.ny{
+    position: absolute;
+    top: 50%;
+    font-size: 33px;
+    color: aliceblue;
+    left: 30%;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+i{
+    background-color: white;
+    padding: 13px;
+    text-align: center;
+    color: #0d0e0d;
+}
+.read{
+    background-color: rgb(255, 87, 87);
+    font-size: 12px;
+    color: white;
+    padding: 10px 10px;
+    margin: 15px auto;
+    border: none;
+}
+.newyork{
+    border-bottom: 4px solid rgb(255, 87, 87);
+}
+.San{
+    position: absolute;
+    top: 50%;
+    font-size: 33px;
+    color: aliceblue;
+    left: 54%;
+}
+.re{
+    background-color: rgb(255, 87, 87);
+    font-size: 12px;
+    color: white;
+    padding: 10px 10px;
+    margin: 15px auto;
+    border: none;
+}
+.sanf{
+    border-bottom: 4px solid rgb(255, 87, 87);
+}
